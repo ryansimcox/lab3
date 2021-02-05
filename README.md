@@ -1,5 +1,5 @@
 ﻿# lab3
 Ben Courlang
-Erik Wolf
+Erik Wola
 ﻿# lab3 
 Project Team Members: george johnson Erik Wolf Ryan Simcox Gabriel Keith
