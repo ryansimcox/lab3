@@ -1,3 +1,3 @@
 ﻿# lab3
-
-Erik Wolf
+ 
+Project Team Members: george johnson Erik Wolf
