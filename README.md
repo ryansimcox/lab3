@@ -1,6 +1,6 @@
 ﻿# lab3
 Ben Courlang
-
+more edits and stuff
 Erik Wolf
 ﻿# lab3 (merge conflict)
 Gabriel keith 
