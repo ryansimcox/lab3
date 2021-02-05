@@ -1,8 +1,8 @@
 ﻿# lab3
 
 
-Erik wolf
-Ryan simcox
-Gabriel keith
-george johnson
-Ben Courlang
+Erik wolf \n
+Ryan simcox \n
+Gabriel keith \n
+george johnson \n
+Ben Courlang \n
