@@ -1,5 +1,8 @@
 ﻿# lab3
 Ben Courlang
-Erik Wola
-﻿# lab3 
+
+Erik Wolf
+﻿# lab3 (merge conflict)
+Gabriel keith 
 Project Team Members: george johnson Erik Wolf Ryan Simcox Gabriel Keith
+>>>>>>> a019758e0071a7ead6d1d79cf571980e264ee999
