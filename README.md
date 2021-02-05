@@ -1,3 +1,3 @@
 ﻿# lab3
-george johnson
+Project Team Members: george johnson
 DETLTED EVEYYONE
